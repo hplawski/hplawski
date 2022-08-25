@@ -1,6 +1,10 @@
+<div id="header" align="center">
+<img src="https://c.tenor.com/wIa91mot0tAAAAAd/pixel-city-chill.gif" width="1000" height="270"/>
+</div>
 <h1 align="center">Hi 🙋‍♀️, I'm Hannah</h1>
 <h3 align="center">A self-taught data analyst based in 🇵🇱 Poland.</h3>
 
+<img align="right" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="350" height="300" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hplawski&label=Profile%20views&color=0e75b6&style=flat" alt="hplawski" /> </p>
 
