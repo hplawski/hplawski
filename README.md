@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hplawski&label=Profile%20views&color=0e75b6&style=flat" alt="hplawski" /> </p>
 
-- 👩‍💻 Industrial Engineering background + Project Management with 6.75 years of professional experience
+- 👩‍💻 Industrial Engineering background + with 6.75 years of professional experience
 
 - 📊 Transitioning to Data Analytics since July 2022
 
