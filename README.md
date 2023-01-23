@@ -12,7 +12,7 @@
 
 - 📊 Transitioning to Data Analytics since July 2022
 
-- 🤝 I’m looking for help with **landing an engineering, project management, or data analyst role in Poland, Malta, EU**
+- 🤝 I’m looking for help with **landing a junior, graduate or associate level roles in engineering, project management, or data analyst role in Poland, Malta, EU**
 
 - 🔭 I’m currently working on **a 30-day project**
 
