@@ -12,17 +12,17 @@
 
 - 📊 Transitioning to Data Analytics since July 2022
 
-- 🤝 I’m looking for help with **landing a junior, graduate or associate level roles in engineering, project management, or data analyst role in Poland, Malta, EU**
+- 🤝 I’m looking for help with **landing a junior, graduate or associate level roles in engineering and data analytics preferably in Malta, Spain, or DACH (Germany, Austria, Switzerland).** I can work immediately for remote roles. I am legally able to work without work permit in the European Union. 
 
-- 🔭 I’m currently working on **a 30-day project**
+- 🔭 I’m currently working on **sprints of monthly projects**
 
-- 🌱 I’m currently learning **Python** 
+- 🌱 I’m currently doing projects in **Data Analytics** 
 
-- 📫 How to reach me **www.linkedin.com/in/hfp1**
+- 📫 How to reach me **https://www.linkedin.com/in/01pfh/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/hfp1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/hfp1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/01pfh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/hfp1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
