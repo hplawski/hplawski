@@ -8,11 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hplawski&label=Profile%20views&color=0e75b6&style=flat" alt="hplawski" /> </p>
 
-- 👩‍💻 I studied Industrial Engineering + 4 years combined experience in tech support for Saas and AML + 3 years in combined admin roles
+- 👩‍💻 I studied Industrial Engineering + 4 years combined experience in tech support for Saas and AML in US and UK time zones + 3 years in combined admin roles in Asia and the Pacific time zones
 
 - 📊 Transitioning to Data Analytics and Information Technology since July 2022
 
-- 🤝 I’m looking for help with **landing a graduate or associate level roles in data analytics, business intelligence, software development, information technology preferably in Malta and/or Spain.** I can work immediately for onsite, hybrid, and remote roles. I am legally able to work without sponsorship/work permit/work visa in the European Union and European Economic Area. 
+- 🤝 I’m looking for help with **landing a graduate or associate level roles in data analytics, business intelligence, software development, information technology preferably in Malta and/or Spain and the US (for remote roles for now)** I can work immediately for onsite, hybrid, and remote roles. I am legally able to work without sponsorship/work permit/work visa in the European Union and European Economic Area. 
 
 - 🔭 I’m currently working on **sprints of monthly projects**
 
