@@ -12,7 +12,7 @@
 
 - 📊 Transitioning to Data Analytics and Information Technology since July 2022
 
-- 🤝 I’m looking for help with **landing a graduate or associate level roles in data analytics, business intelligence, software development, information technology preferably in Malta and/or Spain and the US (for remote roles for now)** I can work immediately for onsite, hybrid, and remote roles. I am legally able to work without sponsorship/work permit/work visa in the European Union and European Economic Area. 
+- 🤝 I’m on the lookout for exciting opportunities to kickstart my career in **data analytics, business intelligence, software development, or information technology. My sights are set on securing graduate or associate-level roles, and I'm particularly drawn to positions in the vibrant landscapes of Malta, Spain, and the US(preferably in remote capacities for now)** I can work immediately for onsite, hybrid, and remote roles. It's worth noting that I come equipped with the legal ability to work seamlessly in the European Union and European Economic Area, eliminating the need for sponsorship, work permits, or visas. 
 
 - 🔭 I’m currently working on **sprints of monthly projects**
 
