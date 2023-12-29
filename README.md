@@ -2,7 +2,7 @@
 <img src="https://c.tenor.com/wIa91mot0tAAAAAd/pixel-city-chill.gif" width="1000" height="270"/>
 </div>
 <h1 align="center">Hi 🙋‍♀️, I'm Hannah</h1>
-<h3 align="center">A Data Analytics professional and certified ISO9001:2015 Lead Auditor currently based in 🇲🇹 Malta</h3>
+<h3 align="center">Data Analytics professional and certified ISO9001:2015 Lead Auditor currently based in 🇲🇹 Malta</h3>
 
 <img align="right" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="350" height="300" />
 
