@@ -2,21 +2,21 @@
 <img src="https://c.tenor.com/wIa91mot0tAAAAAd/pixel-city-chill.gif" width="1000" height="270"/>
 </div>
 <h1 align="center">Hi 🙋‍♀️, I'm Hannah</h1>
-<h3 align="center">A self-educated data analyst based in 🇵🇱 Poland.</h3>
+<h3 align="center">A Data Analytics professional and certified ISO9001:2015 Lead Auditor currently based in 🇲🇹 Malta</h3>
 
 <img align="right" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="350" height="300" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hplawski&label=Profile%20views&color=0e75b6&style=flat" alt="hplawski" /> </p>
 
-- 👩‍💻 I am an Industrial Engineer + with 6 years of professional experience
+- 👩‍💻 I studied Industrial Engineering + 4 years combined experience in tech support for Saas and AML + 3 years in combined admin roles
 
-- 📊 Transitioning to Data Analytics since July 2022
+- 📊 Transitioning to Data Analytics and Information Technology since July 2022
 
-- 🤝 I’m looking for help with **landing a junior, graduate or associate level roles in engineering and data analytics preferably in Malta, Spain, or DACH (Germany, Austria, Switzerland).** I can work immediately for remote roles. I am legally able to work without work permit in the European Union. 
+- 🤝 I’m looking for help with **landing a graduate or associate level roles in data analytics, business intellgence, software development, information technology preferably in Malta and/or Spain.** I can work immediately for onsite, hybrid, and remote roles. I am legally able to work without sponsorship/work permit/work visa in the European Union and European Economic Area. 
 
 - 🔭 I’m currently working on **sprints of monthly projects**
 
-- 🌱 I’m currently doing projects in **Data Analytics** 
+- 🌱 I’m currently doing projects in **Data Analytics and Web Development** 
 
 - 📫 How to reach me **https://www.linkedin.com/in/01pfh/**
 
