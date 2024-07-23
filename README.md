@@ -8,18 +8,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hplawski&label=Profile%20views&color=0e75b6&style=flat" alt="hplawski" /> </p>
 
-- 👩‍💻 I studied Industrial Engineering + 4 years combined experience in tech support for SaaS and AML in US and UK time zones + 3 years in combined admin roles in Asia and the Pacific time zones
+- 👩‍💻 I studied Industrial Engineering + 4 years combined experience in tech support and customer service for SaaS and AML in US and UK time zones + 3 years in combined admin roles in Asia and the Pacific time zones
 
-- 📊 Transitioning to Data Analytics and Information Technology since July 2022
+- 📊 Transitioning to Cyber Security since June 2024
 
-- 🤝 I’m on the lookout for exciting opportunities to kickstart my career in **data analytics, business intelligence, software development, or information technology. My sights are set on securing graduate or associate-level roles, and I'm particularly drawn to positions in the vibrant landscapes of Malta, Spain, and the US(preferably in remote capacities for now).** <br>
+- 🤝 I’m on the lookout for exciting opportunities to kickstart my career in **Cyber Security specifically the following roles: (1) SOC Analyst Tier 1, (2) Security Auditor, (3) Security Analyst, (4) Risk Analyst, (5) Cybersecurity Compliance Analyst, (6) Vulnerability Assessor, (7) Junior IT Auditor. My sights are set on securing graduate or associate-level roles, and I'm particularly drawn to positions in the vibrant landscapes of Malta, Spain, and the Luxembourg(preferably in remote capacities for now).** <br>
 I can work immediately for onsite, hybrid, and remote roles.
 
 - It's worth noting that I come equipped with the legal ability to work seamlessly in the European Union and European Economic Area, eliminating the need for sponsorship, work permits, or visas. 
 
-- 🔭 I’m currently working on **sprints of monthly projects**
+- 🔭 I’m currently finishiing trainings and certifications for **CompTIA Security+ and CompTIA PenTest+**
 
-- 🌱 I’m currently doing projects in **Data Analytics and Web Development** 
+- 🌱 I’m currently doing projects in **Cybersecurity** 
 
 - 📫 How to reach me **https://www.linkedin.com/in/01pfh/**
 
