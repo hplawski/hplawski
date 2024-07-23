@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hplawski&label=Profile%20views&color=0e75b6&style=flat" alt="hplawski" /> </p>
 
-- 👩‍💻 I studied Industrial Engineering + 4 years combined experience in tech support and customer service for SaaS and AML in US and UK time zones + 3 years in combined admin roles in Asia and the Pacific time zones
+- 👩‍💻 I studied Industrial Engineering (5-year bachelor's degree programme)+ 4 years combined experience in tech support and customer service for SaaS and AML in US and UK time zones + 3 years in combined admin roles in Asia and the Pacific time zones
 
 - 📊 Transitioning to Cyber Security since June 2024
 
