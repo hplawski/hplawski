@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hplawski&label=Profile%20views&color=0e75b6&style=flat" alt="hplawski" /> </p>
 
-- 👩‍💻 I studied Industrial Engineering (5-year bachelor's degree programme, MQRIC recognized MQF Level 6)+ 4 years combined experience in tech support and customer service for SaaS and AML in the US and UK time zones + 3 years in combined admin roles in Asia and the Pacific time zones
+- 👩‍💻 I studied Industrial Engineering (5-year bachelor's degree programme, MQRIC recognized MQF Level 6) + 4 years combined experience in tech support and customer service for SaaS and AML in the US and UK time zones + 3 years combined admin roles in Asia and the Pacific time zones
   
 - 🤓 I have worked in Malta as a QA Engineer, conducting and participating in ISO 9001 internal and client audits and as a business analyst conducting gap analyses of existing laws in the European Union and Malta with systems in a financial services company. 
 
