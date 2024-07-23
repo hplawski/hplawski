@@ -19,7 +19,7 @@ I can work immediately for onsite, hybrid, and remote roles.
 
 - It's worth noting that I come equipped with the legal ability to work seamlessly in the European Union and European Economic Area, eliminating the need for sponsorship, work permits, or visas. 
 
-- 🔭 I’m currently finishiing trainings and certifications for **CompTIA Security+ and CompTIA PenTest+**
+- 🔭 I’m currently finishiing trainings and certifications on **CompTIA Security+ and CompTIA PenTest+**
 
 - 🌱 I’m currently doing projects in **Cybersecurity** 
 
