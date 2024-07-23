@@ -14,7 +14,7 @@
 
 - 📊 Transitioning to Cyber Security since June 2024 
 
-- 🤝 I’m on the lookout for exciting opportunities to kickstart my career in **Cyber Security specifically the following roles: (1) SOC Analyst Tier 1, (2) Security Auditor, (3) Security Analyst, (4) Risk Analyst, (5) Cybersecurity Compliance Analyst, (6) Vulnerability Assessor, (7) Junior IT Auditor. My sights are set on securing graduate or associate-level roles, and I'm particularly drawn to positions in the vibrant landscapes of Malta, Spain, and the Luxembourg(preferably in remote capacities for now).** <br>
+- 🤝 I’m on the lookout for exciting opportunities to kickstart my career in **Cyber Security specifically the following roles: (1) SOC Analyst Tier 1, (2) Security Auditor, (3) Security Analyst, (4) Risk Analyst, (5) Cybersecurity Compliance Analyst, (6) Vulnerability Assessor, (7) Junior IT Auditor. My sights are set on securing graduate or associate-level roles, and I'm particularly drawn to positions in the vibrant landscapes of Malta, Spain, and Luxembourg(preferably in remote capacities for now).** <br>
 I can work immediately for onsite, hybrid, and remote roles.
 
 - It's worth noting that I come equipped with the legal ability to work seamlessly in the European Union and European Economic Area, eliminating the need for sponsorship, work permits, or visas. 
