@@ -10,18 +10,19 @@
 
 - 👩‍💻 I studied Industrial Engineering (5-year bachelor's degree programme, MQRIC recognized MQF Level 6) + 4 years combined experience in tech support and customer service for SaaS and AML in the US and UK time zones + 3 years combined admin roles in Asia and the Pacific time zones
   
-- 🤓 I have worked in Malta as a QA Engineer, conducting and participating in ISO 9001 internal and client audits and as a business analyst conducting gap analyses of existing laws in the European Union and Malta with systems in a financial services company. 
+- 🤓 I have worked in Malta as a QA Engineer, conducting and participating in ISO 9001 internal, client audits, and supplier and vendor qualification and management, including CAPA.
+- Earlier this year, 2024, I worked as a business analyst conducting gap analyses of existing laws in the European Union and Malta with exitins financial systems, including gathering requirements for DORA Cybersecurity Requirements in a financial services company.  
 
 - 📊 Transitioning to Cyber Security since June 2024 
 
-- 🤝 I’m on the lookout for exciting opportunities to kickstart my career in **Cyber Security specifically the following roles: (1) SOC Analyst Tier 1, (2) Security Auditor, (3) Security Analyst, (4) Risk Analyst, (5) Cybersecurity Compliance Analyst, (6) Vulnerability Assessor, (7) Junior IT Auditor. My sights are set on securing graduate or associate-level roles, and I'm particularly drawn to positions in the vibrant landscapes of Malta, Spain, and Luxembourg(preferably in remote capacities for now).** <br>
+- 🤝 I’m on the lookout for exciting opportunities to kickstart my career in **Cyber Security specifically the following roles: (1) SOC Analyst Tier 1, (2) Security Auditor, (3) Security Analyst, (4) Risk Analyst, (5) Cybersecurity Compliance Analyst, (6) Vulnerability Assessor, (7) Junior IT Auditor, (8) SysOps Engineer (Cybersecurity). My sights are set on securing graduate or associate-level roles, and I'm particularly drawn to positions in the vibrant landscapes of Malta, Spain, and Luxembourg (preferably in remote capacities for now).** <br>
 I can work immediately for onsite, hybrid, and remote roles.
 
 - It's worth noting that I come equipped with the legal ability to work seamlessly in the European Union and European Economic Area, eliminating the need for sponsorship, work permits, or visas. 
 
-- 🔭 I’m currently finishiing trainings and certifications on **CompTIA Security+ and CompTIA PenTest+**
+- 🔭 I’m currently finishing trainings and certifications on **CompTIA PenTest+**
 
-- 🌱 I’m currently doing projects in **Cybersecurity** 
+- 🌱 I’m currently doing projects using the following Cybersecurity tools: **MISP**, **Snort**, **Nessus**, **CIS-CAT**, **OpenSSL**, **Darktrace** (will update on my website portfolio soon)
 
 - 📫 How to reach me **https://www.linkedin.com/in/01pfh/**
 
