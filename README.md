@@ -10,8 +10,8 @@
 
 - 👩‍💻 I studied Industrial Engineering (5-year bachelor's degree programme, MQRIC recognized MQF Level 6) + 4 years combined experience in tech support and customer service for SaaS and AML in the US and UK time zones + 3 years combined admin roles in Asia and the Pacific time zones
   
-- 🤓 I have worked in Malta as a QA Engineer, conducting and participating in ISO 9001 internal, client audits, and supplier and vendor qualification and management, including CAPA.
-- Earlier this year, 2024, I worked as a business analyst conducting gap analyses of existing laws in the European Union and Malta with exitins financial systems, including gathering requirements for DORA Cybersecurity Requirements in a financial services company.  
+- 🤓 I have worked in Malta as a QA Engineer, conducting and participating in ISO 9001 internal, client audits, supplier and vendor qualification and management, including CAPA.
+- Earlier this year, 2024, I worked as a business analyst conducting gap analyses of existing laws in the European Union and Malta with financial systems, including gathering requirements for DORA Cybersecurity Requirements in a financial services company.  
 
 - 📊 Transitioning to Cyber Security since June 2024 
 
