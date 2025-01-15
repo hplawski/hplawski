@@ -13,9 +13,9 @@
 <h2>My Journey to Cybersecurity 🌱</h2>
 
 <ul>
-    <li><strong>Industrial Engineering (Bachelor’s Degree)</strong>: 5-year program, MQF Level 6</li>
+    <li><strong>Industrial Engineering (Bachelor’s Degree)</strong>: 5-year program, recognized by the Malta Qualifications Framework Level 6</li>
     <li><strong>7+ years of experience in tech support & customer service</strong> (SaaS and AML sectors, supporting the US, EMEA, and APAC markets)</li>
-    <li><strong>ISO 9001 Experience</strong>: Conducted audits and managed vendor relationships, CAPA, and supplier qualification.</li>
+    <li><strong>ISO 9001 Experience</strong>: Conducted internal audits, participated in client audits, and managed vendor relationships, CAPA, and supplier qualification.</li>
     <li><strong>Business Analysis in Financial Cybersecurity</strong>: Worked on gap analyses of EU and Malta laws, with a focus on DORA Cybersecurity Requirements in financial services.</li>
 </ul>
 
