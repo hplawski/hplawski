@@ -49,7 +49,7 @@
     <li>SysOps Engineer (Cybersecurity)</li>
 </ul>
 
-<p>I am open to roles across <strong>Malta, Spain, and Luxembourg</strong>—remote positions are ideal as I continue to grow in the field.</p>
+<p>I am open to roles across <strong>Malta, Spain, and Switzerland</strong>—remote positions are ideal as I continue to grow in the field.</p>
 
 <h3>Why Work With Me? 🤝</h3>
 <ul>
@@ -66,9 +66,7 @@
 
 - It's worth noting that I come equipped with the legal ability to work seamlessly in the European Union and European Economic Area, eliminating the need for sponsorship, work permits, or visas. 
 
-- 🔭 I’m currently finishing trainings and certifications on **CompTIA PenTest+**
-
-- 🌱 I’m currently doing projects using the following Cybersecurity tools: **MISP**, **Snort**, **Nessus**, **CIS-CAT**, **OpenSSL**, **Darktrace** (will update on my website portfolio soon)
+- 🌱 I’m currently doing projects using the following Cybersecurity tools: **Burp Suite**, **SQLmap**, **Nikto**, **LeanPEAS**, **Linux Exploit Suggester**, (available on my GitHub repository and will update on my website portfolio soon)
 
 - 📫 How to reach me **https://www.linkedin.com/in/01pfh/**
 
