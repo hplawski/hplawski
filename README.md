@@ -8,12 +8,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hplawski&label=Profile%20views&color=0e75b6&style=flat" alt="hplawski" /> </p>
 
-- 👩‍💻 I studied Industrial Engineering (5-year bachelor's degree programme, MQRIC recognized MQF Level 6) + 4 years combined experience in tech support and customer service for SaaS and AML in the US and UK time zones + 3 years combined admin roles in Asia and the Pacific time zones
-  
-- 🤓 I have worked in Malta as a QA Engineer, conducting and participating in ISO 9001 internal, client audits, supplier and vendor qualification and management, including CAPA.
-- Earlier this year, 2024, I worked as a business analyst conducting gap analyses of existing laws in the European Union and Malta with financial systems, including gathering requirements for DORA Cybersecurity Requirements in a financial services company.  
-
-- 📊 Transitioning to Cyber Security since June 2024 
+- 👩‍💻 My Journey to Cybersecurity 🌱
+Industrial Engineering (Bachelor’s Degree): 5-year program, MQF Level 6
+4+ years of experience in tech support & customer service (SaaS and AML sectors, US & UK time zones)
+3+ years in administrative and operational roles (Asia & Pacific time zones)
+ISO 9001 Experience: Conducted audits and managed vendor relationships, CAPA, and supplier qualification.
+Business Analysis in Financial Cybersecurity: Worked on gap analyses of EU and Malta laws, with a focus on DORA Cybersecurity Requirements in financial services.
+Since June 2024, I’ve been actively transitioning to cybersecurity, gaining hands-on experience and certifications to make a meaningful impact in the field.
 
 - 🤝 I’m on the lookout for exciting opportunities to kickstart my career in **Cyber Security specifically the following roles: (1) SOC Analyst Tier 1, (2) Security Auditor, (3) Security Analyst, (4) Risk Analyst, (5) Cybersecurity Compliance Analyst, (6) Vulnerability Assessor, (7) Junior IT Auditor, (8) SysOps Engineer (Cybersecurity). My sights are set on securing graduate or associate-level roles, and I'm particularly drawn to positions in the vibrant landscapes of Malta, Spain, and Luxembourg (preferably in remote capacities for now).** <br>
 I can work immediately for onsite, hybrid, and remote roles.
