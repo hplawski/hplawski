@@ -14,8 +14,7 @@
 
 <ul>
     <li><strong>Industrial Engineering (Bachelor’s Degree)</strong>: 5-year program, MQF Level 6</li>
-    <li><strong>4+ years of experience in tech support & customer service</strong> (SaaS and AML sectors, US & UK time zones)</li>
-    <li><strong>3+ years in administrative and operational roles</strong> (Asia & Pacific time zones)</li>
+    <li><strong>7+ years of experience in tech support & customer service</strong> (SaaS and AML sectors, supporting the US, EMEA, and APAC markets)</li>
     <li><strong>ISO 9001 Experience</strong>: Conducted audits and managed vendor relationships, CAPA, and supplier qualification.</li>
     <li><strong>Business Analysis in Financial Cybersecurity</strong>: Worked on gap analyses of EU and Malta laws, with a focus on DORA Cybersecurity Requirements in financial services.</li>
 </ul>
@@ -23,7 +22,7 @@
 <p>Since June 2024, I’ve been <strong>actively transitioning to cybersecurity</strong>, gaining hands-on experience and certifications to make a meaningful impact in the field.</p>
 
 <h3>Current Focus 🔐</h3>
-<p>I'm currently expanding my expertise through hands-on projects, and I'm wrapping up my <strong>CompTIA PenTest+</strong> certification. My key projects involve working with industry-standard cybersecurity tools such as:</p>
+<p>I'm currently expanding my expertise through hands-on projects, and I'm wrapping up my <strong>Certified Ethical Hacker (CEH) from Cisco Networking Academy+</strong> certification. My key projects involve working with industry-standard cybersecurity tools such as:</p>
 
 <ul>
     <li><strong>MISP</strong></li>
