@@ -22,15 +22,15 @@
 <p>Since December 2023, I’ve been <strong>actively transitioning to cybersecurity</strong>, gaining hands-on experience and certifications to make a meaningful impact in the field.</p>
 
 <h3>Current Focus 🔐</h3>
-<p>I'm currently expanding my expertise through hands-on projects, and I'm wrapping up my <strong>Certified Ethical Hacker (CEH) from Cisco Networking Academy+</strong> certification. My key projects involve working with industry-standard cybersecurity tools such as:</p>
+<p>I'm currently expanding my expertise through hands-on projects, and I'm wrapping up my <strong>Certified Ethical Hacker (CEH) from Cisco Networking Academy+</strong> certification. My key projects involve working with industry-standard cybersecurity tools such as (to name a few):</p>
 
 <ul>
-    <li><strong>MISP</strong></li>
-    <li><strong>Snort</strong></li>
     <li><strong>Nessus</strong></li>
-    <li><strong>CIS-CAT</strong></li>
-    <li><strong>OpenSSL</strong></li>
-    <li><strong>Darktrace</strong></li>
+    <li><strong>WHOIS</strong></li>
+    <li><strong>LOIC</strong></li>
+    <li><strong>Snort</strong></li>
+    <li><strong>Burp Suite</strong></li>
+    <li><strong>VMWare</strong></li>
 </ul>
 
 <p>Stay tuned for updates on my upcoming portfolio, where I’ll be showcasing these projects!</p>
@@ -66,7 +66,7 @@
 
 - It's worth noting that I come equipped with the legal ability to work seamlessly in the European Union and European Economic Area, eliminating the need for sponsorship, work permits, or visas. 
 
-- 🌱 I’m currently doing projects using the following Cybersecurity tools: **Burp Suite**, **SQLmap**, **Nikto**, **LeanPEAS**, **Linux Exploit Suggester**, (available on my GitHub repository and will update on my website portfolio soon)
+- 🌱 I’m currently doing side projects using the following Cybersecurity tools: **Burp Suite**, **SQLmap**, **Nikto**, **LeanPEAS**, **Linux Exploit Suggester**, (available on my GitHub repository and will update on my website portfolio soon)
 
 - 📫 How to reach me **https://www.linkedin.com/in/01pfh/**
 
