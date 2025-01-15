@@ -8,16 +8,61 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hplawski&label=Profile%20views&color=0e75b6&style=flat" alt="hplawski" /> </p>
 
-- 👩‍💻 My Journey to Cybersecurity 🌱
-Industrial Engineering (Bachelor’s Degree): 5-year program, MQF Level 6
-4+ years of experience in tech support & customer service (SaaS and AML sectors, US & UK time zones)
-3+ years in administrative and operational roles (Asia & Pacific time zones)
-ISO 9001 Experience: Conducted audits and managed vendor relationships, CAPA, and supplier qualification.
-Business Analysis in Financial Cybersecurity: Worked on gap analyses of EU and Malta laws, with a focus on DORA Cybersecurity Requirements in financial services.
-Since June 2024, I’ve been actively transitioning to cybersecurity, gaining hands-on experience and certifications to make a meaningful impact in the field.
+<h2>My Journey to Cybersecurity 🌱</h2>
+<p>I’m an Industrial Engineer and ISO 9001:2015 Lead Auditor with a solid foundation in tech support, quality assurance, and regulatory compliance. Over the past few years, I’ve expanded my expertise by diving into the cybersecurity field, particularly focusing on risk management, compliance, and security auditing. I’m passionate about leveraging my experience to contribute to the cybersecurity domain, especially in areas like SOC, security analysis, and vulnerability assessment.</p>
 
-- 🤝 I’m on the lookout for exciting opportunities to kickstart my career in **Cyber Security specifically the following roles: (1) SOC Analyst Tier 1, (2) Security Auditor, (3) Security Analyst, (4) Risk Analyst, (5) Cybersecurity Compliance Analyst, (6) Vulnerability Assessor, (7) Junior IT Auditor, (8) SysOps Engineer (Cybersecurity). My sights are set on securing graduate or associate-level roles, and I'm particularly drawn to positions in the vibrant landscapes of Malta, Spain, and Luxembourg (preferably in remote capacities for now).** <br>
-I can work immediately for onsite, hybrid, and remote roles.
+<ul>
+    <li><strong>Industrial Engineering (Bachelor’s Degree)</strong>: 5-year program, MQF Level 6</li>
+    <li><strong>4+ years of experience in tech support & customer service</strong> (SaaS and AML sectors, US & UK time zones)</li>
+    <li><strong>3+ years in administrative and operational roles</strong> (Asia & Pacific time zones)</li>
+    <li><strong>ISO 9001 Experience</strong>: Conducted audits and managed vendor relationships, CAPA, and supplier qualification.</li>
+    <li><strong>Business Analysis in Financial Cybersecurity</strong>: Worked on gap analyses of EU and Malta laws, with a focus on DORA Cybersecurity Requirements in financial services.</li>
+</ul>
+
+<p>Since June 2024, I’ve been <strong>actively transitioning to cybersecurity</strong>, gaining hands-on experience and certifications to make a meaningful impact in the field.</p>
+
+<h3>Current Focus 🔐</h3>
+<p>I'm currently expanding my expertise through hands-on projects, and I'm wrapping up my <strong>CompTIA PenTest+</strong> certification. My key projects involve working with industry-standard cybersecurity tools such as:</p>
+
+<ul>
+    <li><strong>MISP</strong></li>
+    <li><strong>Snort</strong></li>
+    <li><strong>Nessus</strong></li>
+    <li><strong>CIS-CAT</strong></li>
+    <li><strong>OpenSSL</strong></li>
+    <li><strong>Darktrace</strong></li>
+</ul>
+
+<p>Stay tuned for updates on my upcoming portfolio, where I’ll be showcasing these projects!</p>
+
+<h3>Seeking Opportunities 🚀</h3>
+<p>I am eager to apply my skills and knowledge in entry-level cybersecurity roles. I am particularly interested in positions such as:</p>
+
+<ul>
+    <li>SOC Analyst (Tier 1)</li>
+    <li>Security Auditor</li>
+    <li>Security Analyst</li>
+    <li>Risk Analyst</li>
+    <li>Cybersecurity Compliance Analyst</li>
+    <li>Vulnerability Assessor</li>
+    <li>Junior IT Auditor</li>
+    <li>SysOps Engineer (Cybersecurity)</li>
+</ul>
+
+<p>I am open to roles across <strong>Malta, Spain, and Luxembourg</strong>—remote positions are ideal as I continue to grow in the field.</p>
+
+<h3>Why Work With Me? 🤝</h3>
+<ul>
+    <li><strong>Proven experience in regulatory compliance and risk management</strong>—skills that directly translate to the cybersecurity field.</li>
+    <li><strong>Strong technical background</strong> from industrial engineering and QA, giving me a unique perspective on problem-solving and system security.</li>
+    <li><strong>Hands-on cybersecurity training and projects</strong>, with ongoing certifications and a focus on practical knowledge.</li>
+    <li><strong>Legal eligibility</strong> to work in the EU and EEA without the need for sponsorship, work permits, or visas.</li>
+    <li><strong>Available immediately</strong> for onsite, hybrid, and remote positions.</li>
+</ul>
+
+<h3>Let's Connect! 📫</h3>
+<p>I'm always excited to connect with like-minded professionals and companies in the cybersecurity space. You can reach me via my <a href="https://www.linkedin.com/in/01pfh/" target="_blank">LinkedIn profile</a> for networking or job opportunities.</p>
+
 
 - It's worth noting that I come equipped with the legal ability to work seamlessly in the European Union and European Economic Area, eliminating the need for sponsorship, work permits, or visas. 
 
