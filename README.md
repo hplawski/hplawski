@@ -19,7 +19,7 @@
     <li><strong>Business Analysis in Financial Cybersecurity</strong>: Worked on gap analyses of EU and Malta laws, with a focus on DORA Cybersecurity Requirements in financial services.</li>
 </ul>
 
-<p>Since June 2024, I’ve been <strong>actively transitioning to cybersecurity</strong>, gaining hands-on experience and certifications to make a meaningful impact in the field.</p>
+<p>Since December 2023, I’ve been <strong>actively transitioning to cybersecurity</strong>, gaining hands-on experience and certifications to make a meaningful impact in the field.</p>
 
 <h3>Current Focus 🔐</h3>
 <p>I'm currently expanding my expertise through hands-on projects, and I'm wrapping up my <strong>Certified Ethical Hacker (CEH) from Cisco Networking Academy+</strong> certification. My key projects involve working with industry-standard cybersecurity tools such as:</p>
