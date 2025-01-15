@@ -22,7 +22,7 @@
 <p>Since December 2023, I’ve been <strong>actively transitioning to cybersecurity</strong>, gaining hands-on experience and certifications to make a meaningful impact in the field.</p>
 
 <h3>Current Focus 🔐</h3>
-<p>I'm currently expanding my expertise through hands-on projects, and I'm wrapping up my <strong>Certified Ethical Hacker (CEH) from Cisco Networking Academy+</strong> certification. My key projects involve working with industry-standard cybersecurity tools such as (to name a few):</p>
+<p>I'm currently expanding my expertise through hands-on projects, and I'm wrapping up my <strong>Certified Ethical Hacker (CEH) from Cisco Networking Academy</strong> certification. My key projects involve working with industry-standard cybersecurity tools such as (to name a few):</p>
 
 <ul>
     <li><strong>Nessus</strong></li>
