@@ -22,7 +22,7 @@
 <p>Since December 2023, I’ve been <strong>actively transitioning to cybersecurity</strong>, gaining hands-on experience and certifications to make a meaningful impact in the field.</p>
 
 <h3>Current Focus 🔐</h3>
-<p>I'm currently expanding my expertise through hands-on projects, and I'm wrapping up my <strong>Certified Ethical Hacker (CEH) from Cisco Networking Academy</strong> certification. My key projects involve working with industry-standard cybersecurity tools such as (to name a few):</p>
+<p>I'm currently expanding my expertise through hands-on projects. My key projects involve working with industry-standard cybersecurity tools such as (to name a few):</p>
 
 <ul>
     <li><strong>Nessus</strong></li>
@@ -45,11 +45,10 @@
     <li>Risk Analyst</li>
     <li>Cybersecurity Compliance Analyst</li>
     <li>Vulnerability Assessor</li>
-    <li>Junior IT Auditor</li>
     <li>SysOps Engineer (Cybersecurity)</li>
 </ul>
 
-<p>I am open to roles across <strong>Malta, Spain, and Switzerland</strong>—remote positions are ideal as I continue to grow in the field.</p>
+<p>I am open to roles <strong>worldwide</strong>—remote positions are also ideal as I continue to grow in the field.</p>
 
 <h3>Why Work With Me? 🤝</h3>
 <ul>
