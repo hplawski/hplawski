@@ -2,7 +2,7 @@
 <img src="https://c.tenor.com/wIa91mot0tAAAAAd/pixel-city-chill.gif" width="1000" height="270"/>
 </div>
 <h1 align="center">Hi 🙋‍♀️, I'm Hannah</h1>
-<h3 align="justify">I’m an Industrial Engineer and ISO 9001:2015 Lead Auditor with a solid foundation in tech support, quality assurance, and regulatory compliance. Over the past years, I’ve expanded my expertise by diving into the cybersecurity field, particularly focusing on risk management, compliance, and quality management & information systems auditing. I’m passionate about leveraging my experience to contribute to the cybersecurity domain, especially in areas like SOC, security analysis, and vulnerability assessment. I am currently based in 🇲🇹 Malta.</h3>
+<h3 align="justify">I am an Industrial Engineer with expertise in quality management systems, certified in ISO 27001:2022 and ISO 9001:2015, and have over 8 years of experience across IT, business management, and quality audits globally. My background includes IT operations, business development, and customer support management, with strong leadership from founding a startup. I’m transitioning into Governance, Risk, and Compliance (GRC) roles, focusing on cybersecurity, risk management, and compliance. Certified CCNA, Cisco CEH, CompTIA Security+, and Palo Alto Networks Cybersecurity Fundamentals, I’m eager to contribute to organizations’ security and resilience.</h3>
 
 <h4
 <img align="center" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="250" height="200" />
