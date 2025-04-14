@@ -36,7 +36,7 @@
 <p>Stay tuned for updates on my upcoming portfolio, where I’ll be showcasing these projects!</p>
 
 <h3>Seeking Opportunities 🚀</h3>
-<p>I am eager to apply my skills and knowledge in entry-level cybersecurity roles. I am particularly interested in positions such as:</p>
+<p>I am eager to apply my skills and knowledge in entry-level cybersecurity or related roles. I am particularly interested in positions such as:</p>
 
 <ul>
     <li>SOC Analyst (Tier 1)</li>
@@ -46,6 +46,7 @@
     <li>Cybersecurity Compliance Analyst</li>
     <li>Vulnerability Assessor</li>
     <li>SysOps Engineer (Cybersecurity)</li>
+    <li>IT Manager</li>
 </ul>
 
 <p>I am open to roles <strong>worldwide</strong>—remote positions are also ideal as I continue to grow in the field.</p>
