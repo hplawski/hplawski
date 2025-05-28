@@ -14,7 +14,7 @@
 
 <ul>
     <li><strong>Industrial Engineering (Bachelor’s Degree)</strong>: 5-year program, recognized by the Malta Qualifications Framework as Level 6.</li>
-    <li><strong>Experienced IT and Business Management Specialist with over eight (8) years in IT support & customer service, systems analysis, and quality management. </strong> (SaaS and AML sectors, supporting the US, EMEA, and APAC markets)</li>
+    <li><strong>Experienced IT and Business Management Specialist with over eight (8) years in IT operations, business development & systems analysis, and quality management. </strong> (SaaS and AML sectors, supporting the US, EMEA, and APAC markets)</li>
     <li><strong>ISO 9001 and ISO 27001 Experience</strong>: Conducted internal audits, participated in client audits, and managed vendor relationships, CAPA, and supplier qualification. This work experience led to applications implemented using ISO 27001.</li>
     <li><strong>Business Analysis in Financial Cybersecurity</strong>: Worked on gap analyses of EU, EEA and Malta laws, with a focus on DORA Cybersecurity Requirements in financial services.</li>
 </ul>
