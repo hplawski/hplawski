@@ -93,7 +93,7 @@
   </a>
 
   <a href="https://docs.microsoft.com/en-us/dotnet/cplusplus/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="csharp" width="40" height="40"/>
   </a>
   
   <!-- Added C# logo -->
