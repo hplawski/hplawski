@@ -2,7 +2,7 @@
 <img src="https://c.tenor.com/wIa91mot0tAAAAAd/pixel-city-chill.gif" width="1000" height="270"/>
 </div>
 <h1 align="center">Hi 🙋‍♀️,</h1>
-<h3 align="justify">I’m an Industrial Engineer with over 8 years of experience working across IT, business management, and global quality audits. I’m ISO 27001:2022 and ISO 9001:2015 certified, with a strong background in quality systems and risk management. Along the way, I’ve led teams, built a startup, and supported operations across tech and business. Now, I’m shifting my focus to GRC and cybersecurity, backed by certifications like CCNA, CEH, Security+, and Palo Alto Networks. I'm excited to help organizations stay secure, compliant, and resilient in a fast-changing world..</h3>
+<h3 align="justify">I’m an Industrial Engineer with over 8 years of experience working across IT, business management, and global quality audits. I’m ISO 27001:2022 and ISO 9001:2015 certified lead auditor, with a strong background in quality systems and risk management. Along the way, I’ve led teams, built a startup, and supported operations across tech and business. Now, I’m shifting my focus to GRC and cybersecurity, backed by certifications like CCNA, CEH, Security+, and Palo Alto Networks. I'm excited to help organizations stay secure, compliant, and resilient in a fast-changing world..</h3>
 
 <h4
 <img align="center" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="250" height="200" />
@@ -61,14 +61,14 @@
 </ul>
 
 <h3>Let's Connect! 📫</h3>
-<p>I’m always eager to connect with others working toward stronger cybersecurity—whether you're in tech, compliance, leadership, or just passionate about protecting what matters. You can reach me via my <a href="https://www.linkedin.com/in/01pfh/" target="_blank">LinkedIn profile</a> for networking or job opportunities.</p>
+<p>I’m always eager to connect with others working toward stronger cybersecurity—whether you're in tech, compliance, leadership, or just passionate about protecting what matters. You can reach me via my <a href="https://www.linkedin.com/in/hannahfontanozaplawski-cybersecurity-soc-itauditor-consultant-leadauditor-europeanunion-eu-eea/" target="_blank">LinkedIn profile</a> for networking or job opportunities.</p>
 
 
 - It's worth noting that I come equipped with the legal ability to work seamlessly in the European Union and European Economic Area, eliminating the need for sponsorship, work permits, or visas. 
 
 - 🌱 I’m currently doing side projects using the following Cybersecurity tools: **Burp Suite**, **SQLmap**, **Nikto**, **LeanPEAS**, **Linux Exploit Suggester**, (available on my GitHub repository and will update on my website portfolio soon)
 
-- 📫 How to reach me <a href="https://www.linkedin.com/in/01pfh/" target="_blank">LinkedIn profile</a>
+- 📫 How to reach me <a href="https://www.linkedin.com/in/hannahfontanozaplawski-cybersecurity-soc-itauditor-consultant-leadauditor-europeanunion-eu-eea/" target="_blank">LinkedIn profile</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
