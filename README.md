@@ -54,7 +54,7 @@
 <h3>Why Work With Me? 🤝</h3>
 <ul>
     <li><strong>Proven experience in regulatory compliance and risk management</strong>—skills that directly translate to the cybersecurity field.</li>
-    <li><strong>Strong technical background</strong> from early IT career to industrial engineering and ISO 9001 LA, giving me a unique perspective on problem-solving and system security.</li>
+    <li><strong>Strong technical background</strong> from early IT career to industrial engineering and company quality and ISMS audits, giving me a unique perspective on problem-solving and system security.</li>
     <li><strong>Hands-on cybersecurity training and projects</strong>, with ongoing certifications and a focus on practical knowledge.</li>
     <li><strong>Legal eligibility</strong> to work in the EU and EEA without the need for sponsorship, work permits, or visas.</li>
     <li><strong>Available immediately</strong> for onsite, hybrid, and remote positions.</li>
@@ -68,7 +68,7 @@
 
 - 🌱 I’m currently doing side projects using the following Cybersecurity tools: **Burp Suite**, **SQLmap**, **Nikto**, **LeanPEAS**, **Linux Exploit Suggester**, (available on my GitHub repository and will update on my website portfolio soon)
 
-- 📫 How to reach me **https://www.linkedin.com/in/01pfh/**
+- 📫 How to reach me <a href="https://www.linkedin.com/in/01pfh/" target="_blank">LinkedIn profile</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
