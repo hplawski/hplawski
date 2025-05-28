@@ -2,7 +2,7 @@
 <img src="https://c.tenor.com/wIa91mot0tAAAAAd/pixel-city-chill.gif" width="1000" height="270"/>
 </div>
 <h1 align="center">Hi 🙋‍♀️,</h1>
-<h3 align="justify">I’m an Industrial Engineer with over 8 years of experience working across IT, business management, and global quality audits. I’m ISO 27001:2022 and ISO 9001:2015 certified lead auditor, with a strong background in quality systems and risk management. Along the way, I’ve led teams, built a startup, and supported operations across tech and business. Now, I’m shifting my focus to GRC and cybersecurity, backed by certifications like CCNA, CEH, Security+, and Palo Alto Networks. I'm excited to help organizations stay secure, compliant, and resilient in a fast-changing world..</h3>
+<h3 align="justify">I’m an Industrial Engineer with over 8 years of experience working across IT, business management, and global quality audits. I’m ISO 27001:2022 and ISO 9001:2015 certified lead auditor, with a strong background in quality systems and risk management. Along the way, I’ve led teams, built a startup, and supported operations across tech and business. I’m shifting my focus to GRC and cybersecurity, backed by certifications like CCNA, CEH, Security+, and Palo Alto Networks. I'm excited to help organizations stay secure, compliant, and resilient in a fast-changing world.</h3>
 
 <h4
 <img align="center" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="250" height="200" />
@@ -53,7 +53,7 @@
 
 <h3>Why Work With Me? 🤝</h3>
 <ul>
-    <li><strong>Proven experience in regulatory compliance and risk management</strong>—skills that directly translate to the cybersecurity field.</li>
+    <li><strong>Proven experience in regulatory compliance and risk management</strong> skills that directly translate to the cybersecurity field.</li>
     <li><strong>Strong technical background</strong> from early IT career to industrial engineering and company quality and ISMS audits, giving me a unique perspective on problem-solving and system security.</li>
     <li><strong>Hands-on cybersecurity training and projects</strong>, with ongoing certifications and a focus on practical knowledge.</li>
     <li><strong>Legal eligibility</strong> to work in the EU and EEA without the need for sponsorship, work permits, or visas.</li>
@@ -61,7 +61,7 @@
 </ul>
 
 <h3>Let's Connect! 📫</h3>
-<p>I’m always eager to connect with others working toward stronger cybersecurity—whether you're in tech, compliance, leadership, or just passionate about protecting what matters. You can reach me via my <a href="https://www.linkedin.com/in/hannahfontanozaplawski-cybersecurity-soc-itauditor-consultant-leadauditor-europeanunion-eu-eea/" target="_blank">LinkedIn profile</a> for networking or job opportunities.</p>
+<p>I’m always eager to connect with others working toward stronger cybersecurity, whether you're in tech, compliance, leadership, or just passionate about protecting what matters. You can reach me via my <a href="https://www.linkedin.com/in/hannahfontanozaplawski-cybersecurity-soc-itauditor-consultant-leadauditor-europeanunion-eu-eea/" target="_blank">LinkedIn profile</a> for networking or job opportunities.</p>
 
 
 - It's worth noting that I come equipped with the legal ability to work seamlessly in the European Union and European Economic Area, eliminating the need for sponsorship, work permits, or visas. 
@@ -99,6 +99,10 @@
   <!-- Added C# logo -->
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  </a>
+  
+   <a href="https://docs.microsoft.com/en-us/dotnet/bash/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
   </a>
 
   <!-- Rest of the logos -->
