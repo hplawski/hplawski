@@ -105,6 +105,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
   </a>
 
+ <a href="https://docs.microsoft.com/en-us/dotnet/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg" alt="html" width="40" height="40"/>
+  </a>
+
+   <a href="https://docs.microsoft.com/en-us/dotnet/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original.svg" alt="css" width="40" height="40"/>
+  </a>
+  
   <!-- Rest of the logos -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
