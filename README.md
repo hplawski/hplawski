@@ -37,7 +37,7 @@ Industrial Engineering degree. Open to roles in quality engineering, supplier qu
 <p>Stay tuned for updates on my upcoming portfolio, where I’ll be showcasing these projects!</p>
 
 <h3>Seeking Opportunities 🚀</h3>
-<p>I am eager to apply my skills and knowledge in quality engineering, supplier quality and auditing in manufacturing, energy, medical devices and automotive or related roles. :</p>
+<p>I am eager to apply my skills and knowledge in quality engineering, supplier quality and auditing in manufacturing, energy, medical devices and automotive or related roles. </p>
 
 
 
