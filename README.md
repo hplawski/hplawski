@@ -34,15 +34,6 @@ Industrial Engineering degree. Open to roles in quality engineering, supplier qu
 <h3>Current Focus 🔐</h3>
 <p>I'm currently expanding my expertise through hands-on projects, reading materials, and being present in professional conferences when I can -- ISACA Madrid Chapter XIV CiberTodos held in Madrid, Spain on 29 October 2026 was the most recent one.:</p>
 
-<ul>
-    <li><strong>Nessus</strong></li>
-    <li><strong>WHOIS</strong></li>
-    <li><strong>LOIC</strong></li>
-    <li><strong>Snort</strong></li>
-    <li><strong>Burp Suite</strong></li>
-    <li><strong>VMWare</strong></li>
-</ul>
-
 <p>Stay tuned for updates on my upcoming portfolio, where I’ll be showcasing these projects!</p>
 
 <h3>Seeking Opportunities 🚀</h3>
