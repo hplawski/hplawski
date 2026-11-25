@@ -32,7 +32,7 @@ Industrial Engineering degree. Open to roles in quality engineering, supplier qu
 <p>While working, I’ve been <strong>proactively upskilling </strong>, gaining hands-on experience and certifications to make a meaningful impact in my chosen field of specialisation.</p>
 
 <h3>Current Focus 🔐</h3>
-<p>I'm currently expanding my expertise through hands-on projects, reading materials, and being present in professional conferences when I can -- ISACA Madrid Chapter XIV CiberTodos held in Madrid, Spain on 29 October 2026 was the most recent one.:</p>
+<p>I'm currently expanding my expertise through hands-on projects, reading materials, and being present in professional conferences when I can -- ISACA Madrid Chapter XIV CiberTodos held in Madrid, Spain on 29 October 2026 was the most recent one.</p>
 
 <p>Stay tuned for updates on my upcoming portfolio, where I’ll be showcasing these projects!</p>
 
