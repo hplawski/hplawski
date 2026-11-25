@@ -20,7 +20,7 @@ Industrial Engineering degree. Open to roles in quality engineering, supplier qu
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hplawski&label=Profile%20views&color=0e75b6&style=flat" alt="hplawski" /> </p>
 
-<h2>My Journey to Cybersecurity 🌱</h2>
+<h2>My Journey to applying cybersecurity as an engineer in Quality🌱</h2>
 
 <ul>
     <li><strong>Industrial Engineering (Bachelor’s Degree)</strong>: 5-year program, recognized by the Malta Qualifications Framework as Level 6.</li>
