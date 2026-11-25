@@ -12,7 +12,7 @@ I also bring experience from regulated environments in IT compliance and audits,
 
 Core skills: Quality Engineering · Supplier Quality Engineering (SQE) · Quality Assurance · QA/QC · Incoming Inspection · Run Testing · Supplier Audits · CQI & IRCA ISO 9001 Lead Auditor · ISO 27001 · Internal & Supplier Auditor · CAPA · 8D · 5 Why · Ishikawa · Root Cause Analysis · FMEA · Control Plans · Non-Conformance Management · Continuous Improvement · Quality Management System (QMS) · IPC-A-610
 
-Industrial Engineering degree. Open to roles in quality engineering, supplier quality and auditing in manufacturing, energy, and medical devices. Remote friendly. </h3>
+Industrial Engineering degree. Open to roles in quality engineering, supplier quality and auditing in manufacturing, energy, medical devices and automotive. Remote friendly. </h3>
 
 <h4
 <img align="center" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="250" height="200" />
