@@ -2,7 +2,17 @@
 <img src="https://c.tenor.com/wIa91mot0tAAAAAd/pixel-city-chill.gif" width="1000" height="270"/>
 </div>
 <h1 align="center">Hi 🙋‍♀️,</h1>
-<h3 align="justify">I’m an Industrial Engineer with over 8 years of experience working across IT, business management, and global quality audits. I’m ISO 27001:2022 and ISO 9001:2015 certified lead auditor, with a strong background in quality systems and risk management. Along the way, I’ve led teams, built a startup, and supported operations across tech and business. I’m shifting my focus to GRC and cybersecurity, backed by certifications like CCNA, CEH, Security+, and Palo Alto Networks. I'm excited to help organizations stay secure, compliant, and resilient in a fast-changing world.</h3>
+<h3 align="justify">
+I am a Quality Engineer and CQI & IRCA ISO 9001 Lead Auditor based in Valencia, Spain, with full right to work (no sponsorship required).
+
+I handled supplier quality for compressors, printed circuit boards, and fans, among others, carried out incoming inspection and run tests, led 8D/CAPA root cause investigations, maintained FMEA and Control Plans, and audited internal and supplier locations across the EU and Asia against ISO 9001 and IPC standards.
+
+I also bring experience from regulated environments in IT compliance and audits, vendor coordination, procurement documentation and compliance, which is useful wherever quality, suppliers and standards meet.
+
+
+Core skills: Quality Engineering · Supplier Quality Engineering (SQE) · Quality Assurance · QA/QC · Incoming Inspection · Run Testing · Supplier Audits · CQI & IRCA ISO 9001 Lead Auditor · ISO 27001 · Internal & Supplier Auditor · CAPA · 8D · 5 Why · Ishikawa · Root Cause Analysis · FMEA · Control Plans · Non-Conformance Management · Continuous Improvement · Quality Management System (QMS) · IPC-A-610
+
+Industrial Engineering degree. Open to roles in quality engineering, supplier quality and auditing in manufacturing, energy, and medical devices. Remote friendly. </h3>
 
 <h4
 <img align="center" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="250" height="200" />
