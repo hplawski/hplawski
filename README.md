@@ -24,7 +24,7 @@ Industrial Engineering degree. Open to roles in quality engineering, supplier qu
 
 <ul>
     <li><strong>Industrial Engineering (Bachelor’s Degree)</strong>: 5-year program, recognized by the Malta Qualifications Framework as Level 6.</li>
-    <li><strong>Experienced as a Quality Assurance Engineer, IT Compliance & Analyst, and Business Analyst with combined eight (8) years in hospitality, IT & business services, finance & banking, and the EU public sectors. </strong> (SaaS and AML sectors, supporting the US, EMEA, and APAC markets)</li>
+    <li><strong>Experienced as a Quality Assurance Engineer, IT Compliance & Analyst, and Business Analyst with combined eight (8) years in hospitality, IT & business services (SaaS and AML sectors, supporting the US, EMEA, and APAC markets), finance & banking, and the EU public sectors. </strong> </li>
     <li><strong>ISO 9001 and ISO 27001 Experience</strong>: Conducted internal audits, participated in client audits, and managed vendor relationships, CAPA, and supplier qualification. This work experience led to processes implemented using ISO 27001.</li>
     <li><strong>Business Analysis in Financial Cybersecurity</strong>: Worked on gap analyses of EU, EEA and Malta laws, with a focus on DORA Cybersecurity Requirements in financial services.</li>
 </ul>
